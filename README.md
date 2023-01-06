@@ -8,6 +8,8 @@ The aim of this project is to predict data scientist salary based on several dat
 
 You can get the dataset I used for this project [here](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries).
 
+You can also access the Model Deployment for this project [here](https://huggingface.co/spaces/jovancast/jovanca-002).
+
 # Library Used
 1. Pandas
 2. NumPy
